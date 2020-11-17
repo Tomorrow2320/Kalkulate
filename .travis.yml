@@ -1,0 +1,5 @@
+  language: python
+
+  compiler: IDE
+
+  os: macOS
