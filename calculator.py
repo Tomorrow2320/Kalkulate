@@ -165,7 +165,7 @@ def p_expression_function(t):
         if len(t[3]) == 1:
             t[0]=math.acos(float(t[3][0]))
         else:
-            print('%s() function need one arguments' % t[1])
+            print('%s() function nee one arguments' % t[1])
         return
     elif t[1] == 'atan':
         if len(t[3]) == 1:
