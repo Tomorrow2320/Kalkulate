@@ -1,5 +1,5 @@
 # lextab.py.
-_tabversion   = '3.6'
+_tabversion   = '3.0'
 _lextokens    = set(('COLON', 'DIVIDE', 'EQUALS', 'LPAREN', 'MINUS', 'NAME', 'NUMBER_DOUBLE', 'NUMBER_INT', 'PLUS', 'RPAREN', 'TIMES'))
 _lexreflags   = 64
 _lexliterals  = ''
